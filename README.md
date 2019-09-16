@@ -1,2 +1,2 @@
 # BOLASSO
-Two-stage and ensemble bootstrapped implementations of LASSO and Adaptive LASSO
+Two-stage and ensemble implementations of bootstrapped LASSO and bootstrapped Adaptive LASSO
